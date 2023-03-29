@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jassi</h1>
-<h3 align="center">Full stack Developer with 10 yrs of experience in finance</h3>
+<h3 align="center">Full stack Developer with 10 yrs of experience in finance, banking, crypto domain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fearless23&label=Profile%20views&color=0e75b6&style=flat" alt="fearless23" /> </p>
 
